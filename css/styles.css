@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+}
+.upper-container{
+  background-image: url("../images/back.png");
+  /*background-color: #222831;*/
+  height: 900px;
+  background-size: cover;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 0;
+  margin: 0 auto;
+  margin-top: 0px;
+  clear: both;
+
+}
+
+.row{
+  text-align:center;
+  color: #ffff;
+font-family: 'Lora', serif;
+padding-top: 350px;
+font-size: 30px;
+float: left;
+padding-left: 200px;
+}
+
+.middle-container{
+  background-color: #ffff;
+  height: 700px;
+
+}
+.steve-jobs-quote{
+  font-size: 40px;
+  text-align: left;
+  padding-left: 900px;
+  padding-top: 250px;
+  position: absolute;
+  float: right;
+
+}
+.Nikola-Tesla-image{
+  float: left;
+  padding-left: 100px;
+  padding-top: 55px;
+  position: absolute;
+}
+.third-div {
+  background-color: #151515;
+
+  padding-bottom: 2vw;
+  padding-right: 2vw;
+  padding-left: 2vw;
+  overflow-x: hidden;
+}
+
+.third-div-content {
+  color: #fff;
+  font-family: 'Lora', serif;
+}
+
+.third-div-title {
+  font-size: 70px;
+  padding-left: 150px;
+  text-align: left;
+  font-weight: lighter;
+}
+
+.third-div-text {
+
+  font-size: 27px;
+  text-align: left;
+  font-weight: lighter;
+  padding-left: 150px;
+}
+.author-text {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 2vw;
+  font-weight: lighter;
+}
+.row1{
+  text-align:center;
+  color: #ffff;
+font-family: 'Lora', serif;
+padding-top: 80px;
+font-size: 30px;
+float: left;
+padding-left: 200px;
+}
