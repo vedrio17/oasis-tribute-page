@@ -3,12 +3,12 @@ Oasis Tribute Page
 A tribute page project created during an internship at Oasis. This project utilizes HTML, CSS, and JavaScript to showcase a tribute page.
 
 Table of Contents
-Overview
-Features
-Installation
-Usage
-Contributing
-License
+#Overview
+#Features
+#Installation
+#Usage
+#Contributing
+#License
 Overview
 This project is a tribute page created as part of the internship at Oasis. The page is dedicated to [mention who or what the tribute is for].
 
